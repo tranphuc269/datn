@@ -1,0 +1,1912 @@
+[{
+  "_id": {
+    "$oid": "5f830437a393b823346d2305"
+  },
+  "email": "hoc081098@gmail.com",
+  "is_active": true,
+  "original_price": 120000,
+  "phone_number": "0363438135",
+  "products": [],
+  "total_price": 120000,
+  "show_time": {
+    "$oid": "5f760e2db4e1ec097c158238"
+  },
+  "user": {
+    "$oid": "5f6a22e3075f5b523f6085a4"
+  },
+  "payment_intent_id": "pi_1Hb4JeH1kXs34QbRJnnKELj3",
+  "createdAt": {
+    "$date": "2020-10-11T13:10:15.902Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-11T13:10:15.902Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f83056c39358736842a55a8"
+  },
+  "email": "hoc081098@gmail.com",
+  "is_active": true,
+  "original_price": 60000,
+  "phone_number": "0363438135",
+  "products": [],
+  "total_price": 60000,
+  "show_time": {
+    "$oid": "5f760e2db4e1ec097c158238"
+  },
+  "user": {
+    "$oid": "5f6a22e3075f5b523f6085a4"
+  },
+  "payment_intent_id": "pi_1Hb4OcH1kXs34QbRbayZql4k",
+  "createdAt": {
+    "$date": "2020-10-11T13:15:24.159Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-11T13:15:24.159Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f83057039358736842a55a9"
+  },
+  "email": "hoc081098@gmail.com",
+  "is_active": true,
+  "original_price": 60000,
+  "phone_number": "0363438135",
+  "products": [],
+  "total_price": 60000,
+  "show_time": {
+    "$oid": "5f760e2db4e1ec097c158238"
+  },
+  "user": {
+    "$oid": "5f6a22e3075f5b523f6085a4"
+  },
+  "payment_intent_id": "pi_1Hb4OhH1kXs34QbRIuXbRpqQ",
+  "createdAt": {
+    "$date": "2020-10-11T13:15:28.760Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-11T13:15:28.760Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f83058939358736842a55aa"
+  },
+  "email": "hoc081098@gmail.com",
+  "is_active": true,
+  "original_price": 60000,
+  "phone_number": "0363438135",
+  "products": [],
+  "total_price": 60000,
+  "show_time": {
+    "$oid": "5f760e2db4e1ec097c158238"
+  },
+  "user": {
+    "$oid": "5f6a22e3075f5b523f6085a4"
+  },
+  "payment_intent_id": "pi_1Hb4P6H1kXs34QbRf7lE71eg",
+  "createdAt": {
+    "$date": "2020-10-11T13:15:53.741Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-11T13:15:53.741Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f83060039358736842a55ab"
+  },
+  "email": "hoc081098@gmail.com",
+  "is_active": true,
+  "original_price": 60000,
+  "phone_number": "0363438135",
+  "products": [],
+  "total_price": 60000,
+  "show_time": {
+    "$oid": "5f760e2db4e1ec097c158238"
+  },
+  "user": {
+    "$oid": "5f6a22e3075f5b523f6085a4"
+  },
+  "payment_intent_id": "pi_1Hb4R0H1kXs34QbRkcvScusa",
+  "createdAt": {
+    "$date": "2020-10-11T13:17:52.374Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-11T13:17:52.374Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8306905f384a1288057797"
+  },
+  "email": "hoc081098@gmail.com",
+  "is_active": true,
+  "original_price": 60000,
+  "phone_number": "0363438135",
+  "products": [],
+  "total_price": 60000,
+  "show_time": {
+    "$oid": "5f760e2db4e1ec097c158238"
+  },
+  "user": {
+    "$oid": "5f6a22e3075f5b523f6085a4"
+  },
+  "payment_intent_id": "pi_1Hb4TKH1kXs34QbRlvDGqhMB",
+  "createdAt": {
+    "$date": "2020-10-11T13:20:16.053Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-11T13:20:16.053Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f83c8ec6236f11d9cc1a2fa"
+  },
+  "email": "hoc081098@gmail.com",
+  "is_active": true,
+  "original_price": 70000,
+  "phone_number": "0363438135",
+  "products": [],
+  "total_price": 70000,
+  "show_time": {
+    "$oid": "5f760e23b4e1ec097c1581d7"
+  },
+  "user": {
+    "$oid": "5f6a22e3075f5b523f6085a4"
+  },
+  "payment_intent_id": "pi_1HbHPrH1kXs34QbRTykSkyL9",
+  "createdAt": {
+    "$date": "2020-10-12T03:09:32.357Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-12T03:09:32.357Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f83e23de4e9ee1be4abb227"
+  },
+  "email": "hoc081098@gmail.com",
+  "is_active": true,
+  "original_price": 100000,
+  "phone_number": "0363438135",
+  "products": [],
+  "total_price": 100000,
+  "show_time": {
+    "$oid": "5f760e09b4e1ec097c158112"
+  },
+  "user": {
+    "$oid": "5f6a22e3075f5b523f6085a4"
+  },
+  "payment_intent_id": "pi_1HbJ6OH1kXs34QbRAVY2L9EM",
+  "createdAt": {
+    "$date": "2020-10-12T04:57:33.096Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-12T04:57:33.096Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f83e291e4e9ee1be4abb228"
+  },
+  "email": "hoc081098@gmail.com",
+  "is_active": true,
+  "original_price": 100000,
+  "phone_number": "0363438135",
+  "products": [],
+  "total_price": 100000,
+  "show_time": {
+    "$oid": "5f760e09b4e1ec097c158112"
+  },
+  "user": {
+    "$oid": "5f6a22e3075f5b523f6085a4"
+  },
+  "payment_intent_id": "pi_1HbJ7lH1kXs34QbRLB9JCrvw",
+  "createdAt": {
+    "$date": "2020-10-12T04:58:57.960Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-12T04:58:57.960Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f83e32d3bcccd25dc586203"
+  },
+  "email": "hoc081098@gmail.com",
+  "is_active": true,
+  "original_price": 100000,
+  "phone_number": "0363438135",
+  "products": [],
+  "total_price": 100000,
+  "show_time": {
+    "$oid": "5f760e09b4e1ec097c158112"
+  },
+  "user": {
+    "$oid": "5f6a22e3075f5b523f6085a4"
+  },
+  "payment_intent_id": "pi_1HbJAGH1kXs34QbRzDEwcDb4",
+  "createdAt": {
+    "$date": "2020-10-12T05:01:33.052Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-12T05:01:33.052Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f83fcbc4306972eb8bfee84"
+  },
+  "email": "hoc081098@gmail.com",
+  "is_active": true,
+  "original_price": 100000,
+  "phone_number": "0363438135",
+  "products": [],
+  "total_price": 100000,
+  "show_time": {
+    "$oid": "5f760e09b4e1ec097c158112"
+  },
+  "user": {
+    "$oid": "5f6a22e3075f5b523f6085a4"
+  },
+  "payment_intent_id": "pi_1HbKrnH1kXs34QbRX3BsIGfC",
+  "createdAt": {
+    "$date": "2020-10-12T06:50:36.766Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-12T06:50:36.766Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f83feaf99464f2530ad0350"
+  },
+  "email": "test@gmail.com",
+  "is_active": true,
+  "original_price": 100000,
+  "phone_number": "0363438135",
+  "products": [],
+  "total_price": 100000,
+  "show_time": {
+    "$oid": "5f760e09b4e1ec097c158112"
+  },
+  "user": {
+    "$oid": "5f6a22e3075f5b523f6085a4"
+  },
+  "payment_intent_id": "pi_1HbKzrH1kXs34QbRFDc6x5t7",
+  "createdAt": {
+    "$date": "2020-10-12T06:58:55.898Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-12T06:58:55.898Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f842705e03d021bcc92e359"
+  },
+  "email": "hoc081098@gmail.com",
+  "is_active": true,
+  "original_price": 60000,
+  "phone_number": "0363438135",
+  "products": [],
+  "total_price": 60000,
+  "show_time": {
+    "$oid": "5f760e46b4e1ec097c1582f4"
+  },
+  "user": {
+    "$oid": "5f6a22e3075f5b523f6085a4"
+  },
+  "payment_intent_id": "pi_1HbNgOH1kXs34QbRp9tBSioo",
+  "createdAt": {
+    "$date": "2020-10-12T09:51:01.247Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-12T09:51:01.247Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f842b17e03d021bcc92e35a"
+  },
+  "email": "t@gmail.com",
+  "is_active": true,
+  "original_price": 132000,
+  "phone_number": "0363438135",
+  "products": [
+    {
+      "_id": {
+        "$oid": "5f842b17e03d021bcc92e35b"
+      },
+      "id": {
+        "$oid": "5f72355fc721d31f4c2fd7bb"
+      },
+      "quantity": 1
+    }
+  ],
+  "total_price": 132000,
+  "show_time": {
+    "$oid": "5f760e19b4e1ec097c1581a3"
+  },
+  "user": {
+    "$oid": "5f6a22e3075f5b523f6085a4"
+  },
+  "payment_intent_id": "pi_1HbNxDH1kXs34QbRuloV5kaj",
+  "createdAt": {
+    "$date": "2020-10-12T10:08:23.827Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-12T10:08:23.827Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f842dffe03d021bcc92e35c"
+  },
+  "email": "hooc081098@gmail.com",
+  "is_active": true,
+  "original_price": 70000,
+  "phone_number": "0363438135",
+  "products": [],
+  "total_price": 70000,
+  "show_time": {
+    "$oid": "5f760e19b4e1ec097c1581a3"
+  },
+  "user": {
+    "$oid": "5f6a22e3075f5b523f6085a4"
+  },
+  "payment_intent_id": "pi_1HbO9CH1kXs34QbRQZZbQzLx",
+  "createdAt": {
+    "$date": "2020-10-12T10:20:47.049Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-12T10:20:47.049Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f856a137f2d020004a1cc87"
+  },
+  "email": "test1@gmail.com",
+  "is_active": true,
+  "original_price": 80000,
+  "phone_number": "0363438135",
+  "products": [],
+  "total_price": 80000,
+  "show_time": {
+    "$oid": "5f760e1ab4e1ec097c1581a7"
+  },
+  "user": {
+    "$oid": "5f6a22e3075f5b523f6085a4"
+  },
+  "payment_intent_id": "pi_1HbjCAH1kXs34QbR4sIDEvxT",
+  "createdAt": {
+    "$date": "2020-10-13T08:49:23.862Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-13T08:49:23.862Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f856a7d7f2d020004a1cc88"
+  },
+  "email": "hoc081098@gmail.com",
+  "is_active": true,
+  "original_price": 80000,
+  "phone_number": "0363438135",
+  "products": [],
+  "total_price": 80000,
+  "show_time": {
+    "$oid": "5f760e1ab4e1ec097c1581a7"
+  },
+  "user": {
+    "$oid": "5f6a22e3075f5b523f6085a4"
+  },
+  "payment_intent_id": "pi_1HbjDsH1kXs34QbRO9kg0TNZ",
+  "createdAt": {
+    "$date": "2020-10-13T08:51:09.814Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-13T08:51:09.814Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f856db67f2d020004a1cc89"
+  },
+  "email": "test1@gmail.com",
+  "is_active": true,
+  "original_price": 70000,
+  "phone_number": "0363438135",
+  "products": [],
+  "total_price": 70000,
+  "show_time": {
+    "$oid": "5f760e19b4e1ec097c1581a3"
+  },
+  "user": {
+    "$oid": "5f6a22e3075f5b523f6085a4"
+  },
+  "payment_intent_id": "pi_1HbjRBH1kXs34QbRcXFKgO5E",
+  "createdAt": {
+    "$date": "2020-10-13T09:04:54.556Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-13T09:04:54.556Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f856fe47f2d020004a1cc8a"
+  },
+  "email": "ngngquangan@gmail.com",
+  "is_active": true,
+  "original_price": 70000,
+  "phone_number": "0363438135",
+  "products": [],
+  "total_price": 70000,
+  "show_time": {
+    "$oid": "5f760e19b4e1ec097c1581a3"
+  },
+  "user": {
+    "$oid": "5f6a22e3075f5b523f6085a4"
+  },
+  "payment_intent_id": "pi_1HbjaBH1kXs34QbRIIwnpuIX",
+  "createdAt": {
+    "$date": "2020-10-13T09:14:12.717Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-13T09:14:12.717Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f85700e7f2d020004a1cc8b"
+  },
+  "email": "ngngquangan@gmail.com",
+  "is_active": true,
+  "original_price": 70000,
+  "phone_number": "0363438135",
+  "products": [],
+  "total_price": 70000,
+  "show_time": {
+    "$oid": "5f760e19b4e1ec097c1581a3"
+  },
+  "user": {
+    "$oid": "5f6a22e3075f5b523f6085a4"
+  },
+  "payment_intent_id": "pi_1HbjarH1kXs34QbRIIUBdm9h",
+  "createdAt": {
+    "$date": "2020-10-13T09:14:54.506Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-13T09:14:54.506Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8575247f2d020004a1cc8c"
+  },
+  "email": "test1@gmail.com",
+  "is_active": true,
+  "original_price": 80000,
+  "phone_number": "0363438135",
+  "products": [],
+  "total_price": 80000,
+  "show_time": {
+    "$oid": "5f760e11b4e1ec097c15814c"
+  },
+  "user": {
+    "$oid": "5f6a22e3075f5b523f6085a4"
+  },
+  "payment_intent_id": "pi_1HbjvrH1kXs34QbROVBYX8Gp",
+  "createdAt": {
+    "$date": "2020-10-13T09:36:36.390Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-13T09:36:36.390Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f85754a7f2d020004a1cc8d"
+  },
+  "email": "test1@gmail.com",
+  "is_active": true,
+  "original_price": 80000,
+  "phone_number": "0363438135",
+  "products": [],
+  "total_price": 80000,
+  "show_time": {
+    "$oid": "5f760e11b4e1ec097c15814c"
+  },
+  "user": {
+    "$oid": "5f6a22e3075f5b523f6085a4"
+  },
+  "payment_intent_id": "pi_1HbjwUH1kXs34QbRRsFEMvyJ",
+  "createdAt": {
+    "$date": "2020-10-13T09:37:14.923Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-13T09:37:14.923Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f85755a7f2d020004a1cc8e"
+  },
+  "email": "test1@gmail.com",
+  "is_active": true,
+  "original_price": 80000,
+  "phone_number": "0363438135",
+  "products": [],
+  "total_price": 80000,
+  "show_time": {
+    "$oid": "5f760e11b4e1ec097c15814c"
+  },
+  "user": {
+    "$oid": "5f6a22e3075f5b523f6085a4"
+  },
+  "payment_intent_id": "pi_1HbjwjH1kXs34QbRPO7mVOdk",
+  "createdAt": {
+    "$date": "2020-10-13T09:37:30.485Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-13T09:37:30.485Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8576e77f2d020004a1cc8f"
+  },
+  "email": "ngngquangan@gmail.com",
+  "is_active": true,
+  "original_price": 100000,
+  "phone_number": "0363438135",
+  "products": [],
+  "total_price": 100000,
+  "show_time": {
+    "$oid": "5f760e2eb4e1ec097c15823e"
+  },
+  "user": {
+    "$oid": "5f6a22e3075f5b523f6085a4"
+  },
+  "payment_intent_id": "pi_1Hbk38H1kXs34QbRBzUtrmMe",
+  "createdAt": {
+    "$date": "2020-10-13T09:44:07.871Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-13T09:44:07.871Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8577d37f2d020004a1cc90"
+  },
+  "email": "test1@gmail.com",
+  "is_active": true,
+  "original_price": 162000,
+  "phone_number": "0363438135",
+  "products": [
+    {
+      "_id": {
+        "$oid": "5f8577d37f2d020004a1cc91"
+      },
+      "id": {
+        "$oid": "5f72355fc721d31f4c2fd7bb"
+      },
+      "quantity": 1
+    }
+  ],
+  "total_price": 162000,
+  "show_time": {
+    "$oid": "5f760e2eb4e1ec097c15823e"
+  },
+  "user": {
+    "$oid": "5f6a22e3075f5b523f6085a4"
+  },
+  "payment_intent_id": "pi_1Hbk6wH1kXs34QbRXiGi8vNi",
+  "createdAt": {
+    "$date": "2020-10-13T09:48:03.599Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-13T09:48:03.599Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8578657f2d020004a1cc92"
+  },
+  "email": "test1@gmail.com",
+  "is_active": true,
+  "original_price": 200000,
+  "phone_number": "0363438135",
+  "products": [],
+  "total_price": 200000,
+  "show_time": {
+    "$oid": "5f760e2eb4e1ec097c15823e"
+  },
+  "user": {
+    "$oid": "5f6a22e3075f5b523f6085a4"
+  },
+  "payment_intent_id": "pi_1Hbk9IH1kXs34QbRl3Gne32g",
+  "createdAt": {
+    "$date": "2020-10-13T09:50:29.946Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-13T09:50:29.946Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8579047f2d020004a1cc93"
+  },
+  "email": "test1@gmail.com",
+  "is_active": true,
+  "original_price": 70000,
+  "phone_number": "0363438135",
+  "products": [],
+  "total_price": 70000,
+  "show_time": {
+    "$oid": "5f760e19b4e1ec097c1581a3"
+  },
+  "user": {
+    "$oid": "5f6a22e3075f5b523f6085a4"
+  },
+  "payment_intent_id": "pi_1HbkBpH1kXs34QbRqLwm15C1",
+  "createdAt": {
+    "$date": "2020-10-13T09:53:08.775Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-13T09:53:08.775Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f85791f7f2d020004a1cc94"
+  },
+  "email": "test1@gmail.com",
+  "is_active": true,
+  "original_price": 70000,
+  "phone_number": "0363438135",
+  "products": [],
+  "total_price": 70000,
+  "show_time": {
+    "$oid": "5f760e19b4e1ec097c1581a3"
+  },
+  "user": {
+    "$oid": "5f6a22e3075f5b523f6085a4"
+  },
+  "payment_intent_id": "pi_1HbkCIH1kXs34QbRblIbSu1c",
+  "createdAt": {
+    "$date": "2020-10-13T09:53:35.236Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-13T09:53:35.236Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f857b6384bd16000458b0dd"
+  },
+  "email": "ngngquangan@gmail.com",
+  "is_active": true,
+  "original_price": 70000,
+  "phone_number": "0363438135",
+  "products": [],
+  "total_price": 70000,
+  "show_time": {
+    "$oid": "5f760e19b4e1ec097c1581a3"
+  },
+  "user": {
+    "$oid": "5f6a22e3075f5b523f6085a4"
+  },
+  "payment_intent_id": "pi_1HbkLfH1kXs34QbRhVwFUUeY",
+  "createdAt": {
+    "$date": "2020-10-13T10:03:16Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-13T10:03:16Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f857b9c84bd16000458b0de"
+  },
+  "email": "test1@gmail.com",
+  "is_active": true,
+  "original_price": 210000,
+  "phone_number": "0363438135",
+  "products": [],
+  "total_price": 210000,
+  "show_time": {
+    "$oid": "5f760e19b4e1ec097c1581a3"
+  },
+  "user": {
+    "$oid": "5f6a22e3075f5b523f6085a4"
+  },
+  "payment_intent_id": "pi_1HbkMZH1kXs34QbRVcNHAJhO",
+  "createdAt": {
+    "$date": "2020-10-13T10:04:12.273Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-13T10:04:12.273Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f857c1784bd16000458b0df"
+  },
+  "email": "hoc081098@gmail.com",
+  "is_active": true,
+  "original_price": 80000,
+  "phone_number": "0363438135",
+  "products": [],
+  "total_price": 80000,
+  "show_time": {
+    "$oid": "5f760e14b4e1ec097c158162"
+  },
+  "user": {
+    "$oid": "5f6a22e3075f5b523f6085a4"
+  },
+  "payment_intent_id": "pi_1HbkOYH1kXs34QbRoiWMqSGf",
+  "createdAt": {
+    "$date": "2020-10-13T10:06:15.729Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-13T10:06:15.729Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f85c86b4147450004c33e27"
+  },
+  "email": "t@gmail.com",
+  "is_active": true,
+  "original_price": 60000,
+  "phone_number": "0363438135",
+  "products": [],
+  "total_price": 60000,
+  "show_time": {
+    "$oid": "5f760e0eb4e1ec097c158132"
+  },
+  "user": {
+    "$oid": "5f6a22e3075f5b523f6085a4"
+  },
+  "payment_intent_id": "pi_1HbpTiH1kXs34QbR3c8UmPXH",
+  "createdAt": {
+    "$date": "2020-10-13T15:31:55.573Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-13T15:31:55.573Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f85cb6d3f7f590004c3d032"
+  },
+  "email": "t@gmail.com",
+  "is_active": true,
+  "original_price": 60000,
+  "phone_number": "0363438135",
+  "products": [],
+  "total_price": 60000,
+  "show_time": {
+    "$oid": "5f760e0eb4e1ec097c158132"
+  },
+  "user": {
+    "$oid": "5f6a22e3075f5b523f6085a4"
+  },
+  "payment_intent_id": "pi_1Hbpg8H1kXs34QbR8dOvXJju",
+  "createdAt": {
+    "$date": "2020-10-13T15:44:45.103Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-13T15:44:45.103Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f85cfdc3f7f590004c3d033"
+  },
+  "email": "test1@gmail.com",
+  "is_active": true,
+  "original_price": 60000,
+  "phone_number": "0363438135",
+  "products": [],
+  "total_price": 60000,
+  "show_time": {
+    "$oid": "5f760e0eb4e1ec097c158132"
+  },
+  "user": {
+    "$oid": "5f6a22e3075f5b523f6085a4"
+  },
+  "payment_intent_id": "pi_1HbpyRH1kXs34QbRkYsWvM50",
+  "createdAt": {
+    "$date": "2020-10-13T16:03:40.391Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-13T16:03:40.391Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f85d0053f7f590004c3d034"
+  },
+  "email": "test1@gmail.com",
+  "is_active": true,
+  "original_price": 60000,
+  "phone_number": "0363438135",
+  "products": [],
+  "total_price": 60000,
+  "show_time": {
+    "$oid": "5f760e0eb4e1ec097c158132"
+  },
+  "user": {
+    "$oid": "5f6a22e3075f5b523f6085a4"
+  },
+  "payment_intent_id": "pi_1Hbpz6H1kXs34QbRkyPC1qsQ",
+  "createdAt": {
+    "$date": "2020-10-13T16:04:21.209Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-13T16:04:21.209Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f85d0393f7f590004c3d035"
+  },
+  "email": "test1@gmail.com",
+  "is_active": true,
+  "original_price": 60000,
+  "phone_number": "0363438135",
+  "products": [],
+  "total_price": 60000,
+  "show_time": {
+    "$oid": "5f760e0eb4e1ec097c158132"
+  },
+  "user": {
+    "$oid": "5f6a22e3075f5b523f6085a4"
+  },
+  "payment_intent_id": "pi_1HbpzwH1kXs34QbRciUT35Sz",
+  "createdAt": {
+    "$date": "2020-10-13T16:05:13.196Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-13T16:05:13.196Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8818b2c7639a3c74aae131"
+  },
+  "email": "test1@gmail.com",
+  "is_active": true,
+  "original_price": 70000,
+  "phone_number": "0363438135",
+  "products": [],
+  "total_price": 70000,
+  "show_time": {
+    "$oid": "5f760e23b4e1ec097c1581d7"
+  },
+  "user": {
+    "$oid": "5f6a22e3075f5b523f6085a4"
+  },
+  "payment_intent_id": "pi_1HcSvFH1kXs34QbRK26O1eD1",
+  "createdAt": {
+    "$date": "2020-10-15T09:38:58.361Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-15T09:38:58.361Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8851dfff186b3558af186d"
+  },
+  "email": "test1@gmail.com",
+  "is_active": true,
+  "original_price": 120000,
+  "phone_number": "0363438135",
+  "products": [],
+  "total_price": 120000,
+  "show_time": {
+    "$oid": "5f760e3ab4e1ec097c1582b9"
+  },
+  "user": {
+    "$oid": "5f6a22e3075f5b523f6085a4"
+  },
+  "payment_intent_id": "pi_1HcWjLH1kXs34QbRxCs1ymta",
+  "createdAt": {
+    "$date": "2020-10-15T13:42:55.961Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-15T13:42:55.961Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f885615d6d4462424c51559"
+  },
+  "email": "test1@gmail.com",
+  "is_active": true,
+  "original_price": 120000,
+  "phone_number": "0363438135",
+  "products": [],
+  "total_price": 107158,
+  "show_time": {
+    "$oid": "5f760e3ab4e1ec097c1582b9"
+  },
+  "user": {
+    "$oid": "5f6a22e3075f5b523f6085a4"
+  },
+  "payment_intent_id": "pi_1HcX0iH1kXs34QbRPkvsaxHV",
+  "createdAt": {
+    "$date": "2020-10-15T14:00:53.433Z"
+  },
+  "updatedAt": {
+    "$date": "2020-11-21T14:58:36.292Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8856d2d6d4462424c5155a"
+  },
+  "email": "test1@gmail.com",
+  "is_active": true,
+  "original_price": 60000,
+  "phone_number": "0363438135",
+  "products": [],
+  "total_price": 47102,
+  "show_time": {
+    "$oid": "5f760e3ab4e1ec097c1582b9"
+  },
+  "user": {
+    "$oid": "5f6a22e3075f5b523f6085a4"
+  },
+  "payment_intent_id": "pi_1HcX3lH1kXs34QbRS3ObPq8U",
+  "createdAt": {
+    "$date": "2020-10-15T14:04:02.650Z"
+  },
+  "updatedAt": {
+    "$date": "2020-11-21T14:58:36.560Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f891bf33e45d23804e48cd8"
+  },
+  "email": "t@gmail.com",
+  "is_active": true,
+  "original_price": 80000,
+  "phone_number": "0363438135",
+  "products": [],
+  "total_price": 80000,
+  "show_time": {
+    "$oid": "5f760e3ab4e1ec097c1582b7"
+  },
+  "user": {
+    "$oid": "5f6a22e3075f5b523f6085a4"
+  },
+  "payment_intent_id": "pi_1HckBjH1kXs34QbREFmdcUAp",
+  "createdAt": {
+    "$date": "2020-10-16T04:05:07.668Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-16T04:05:07.668Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f89aafd53792d31b4008a55"
+  },
+  "email": "test1@gmail.com",
+  "is_active": true,
+  "original_price": 100000,
+  "phone_number": "0363438135",
+  "products": [],
+  "total_price": 100000,
+  "show_time": {
+    "$oid": "5f760e36b4e1ec097c15829b"
+  },
+  "user": {
+    "$oid": "5f6a22e3075f5b523f6085a4"
+  },
+  "payment_intent_id": "pi_1HctiKH1kXs34QbRk5wketji",
+  "createdAt": {
+    "$date": "2020-10-16T14:15:25.402Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-16T14:15:25.402Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f89b63b53792d31b4008a57"
+  },
+  "email": "test1@gmail.com",
+  "is_active": true,
+  "original_price": 70000,
+  "phone_number": "0363438135",
+  "products": [],
+  "total_price": 70000,
+  "show_time": {
+    "$oid": "5f760e17b4e1ec097c15818d"
+  },
+  "user": {
+    "$oid": "5f6a22e3075f5b523f6085a4"
+  },
+  "payment_intent_id": "pi_1HcuSlH1kXs34QbRCHKS4ZM5",
+  "createdAt": {
+    "$date": "2020-10-16T15:03:23.809Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-16T15:03:23.809Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f89b8e453792d31b4008a5b"
+  },
+  "email": "test1@gmail.com",
+  "is_active": true,
+  "original_price": 80000,
+  "phone_number": "0363438135",
+  "products": [],
+  "total_price": 80000,
+  "show_time": {
+    "$oid": "5f760e3ab4e1ec097c1582b7"
+  },
+  "user": {
+    "$oid": "5f6a22e3075f5b523f6085a4"
+  },
+  "payment_intent_id": "pi_1HcudkH1kXs34QbR8lJTsIz1",
+  "createdAt": {
+    "$date": "2020-10-16T15:14:44.215Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-16T15:14:44.215Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f89be9753792d31b4008a63"
+  },
+  "email": "test1@gmail.com",
+  "is_active": true,
+  "original_price": 100000,
+  "phone_number": "0363438135",
+  "products": [],
+  "total_price": 100000,
+  "show_time": {
+    "$oid": "5f760e32b4e1ec097c158280"
+  },
+  "user": {
+    "$oid": "5f6a22e3075f5b523f6085a4"
+  },
+  "payment_intent_id": "pi_1Hcv1HH1kXs34QbRzWETVHdB",
+  "createdAt": {
+    "$date": "2020-10-16T15:39:03.698Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-16T15:39:03.698Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8c562b1fe3a100047831ce"
+  },
+  "email": "hoc081098@gmail.com",
+  "is_active": true,
+  "original_price": 70000,
+  "phone_number": "0363438135",
+  "products": [],
+  "total_price": 70000,
+  "show_time": {
+    "$oid": "5f760e14b4e1ec097c158168"
+  },
+  "user": {
+    "$oid": "5f81d8aa143d55317849b693"
+  },
+  "payment_intent_id": "pi_1HddDCH1kXs34QbRZ8hm9Fdr",
+  "createdAt": {
+    "$date": "2020-10-18T14:50:19.557Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-18T14:50:19.557Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8c7ec57b7074289062b41b"
+  },
+  "email": "hoc081098@gmail.com",
+  "is_active": true,
+  "original_price": 80000,
+  "phone_number": "0363438165",
+  "products": [],
+  "total_price": 80000,
+  "show_time": {
+    "$oid": "5f760e2fb4e1ec097c158259"
+  },
+  "user": {
+    "$oid": "5f6a22e3075f5b523f6085a4"
+  },
+  "payment_intent_id": "pi_1HdfurH1kXs34QbRMIYJINN6",
+  "createdAt": {
+    "$date": "2020-10-18T17:43:33.025Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-18T17:43:33.025Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8c7f3a7b7074289062b41d"
+  },
+  "email": "hoc081098@gmail.com",
+  "is_active": true,
+  "original_price": 80000,
+  "phone_number": "0363438135",
+  "products": [],
+  "total_price": 80000,
+  "show_time": {
+    "$oid": "5f760e49b4e1ec097c158300"
+  },
+  "user": {
+    "$oid": "5f6a22e3075f5b523f6085a4"
+  },
+  "payment_intent_id": "pi_1HdfwlH1kXs34QbRh9xXEZqK",
+  "createdAt": {
+    "$date": "2020-10-18T17:45:30.385Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-18T17:45:30.385Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8d89a17e06ef324889109e"
+  },
+  "email": "hoc081098@gmail.com",
+  "is_active": true,
+  "original_price": 80000,
+  "phone_number": "0363438135",
+  "products": [],
+  "total_price": 80000,
+  "show_time": {
+    "$oid": "5f760e41b4e1ec097c1582ec"
+  },
+  "user": {
+    "$oid": "5f6a22e3075f5b523f6085a4"
+  },
+  "payment_intent_id": "pi_1HdxgkH1kXs34QbRi31Ki6b9",
+  "createdAt": {
+    "$date": "2020-10-19T12:42:09.241Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-19T12:42:09.241Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8d8bc6a60bd835d4acd771"
+  },
+  "email": "hoc081098@gmail.com",
+  "is_active": true,
+  "original_price": 80000,
+  "phone_number": "0363438135",
+  "products": [],
+  "total_price": 80000,
+  "show_time": {
+    "$oid": "5f760e41b4e1ec097c1582ec"
+  },
+  "user": {
+    "$oid": "5f6a22e3075f5b523f6085a4"
+  },
+  "payment_intent_id": "pi_1HdxpbH1kXs34QbRrUpJbfQv",
+  "createdAt": {
+    "$date": "2020-10-19T12:51:18.759Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-19T12:51:18.759Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8d8c66a60bd835d4acd773"
+  },
+  "email": "hoc081098@gmail.com",
+  "is_active": true,
+  "original_price": 70000,
+  "phone_number": "0363438135",
+  "products": [],
+  "total_price": 70000,
+  "show_time": {
+    "$oid": "5f760e2fb4e1ec097c158256"
+  },
+  "user": {
+    "$oid": "5f6a22e3075f5b523f6085a4"
+  },
+  "payment_intent_id": "pi_1HdxsBH1kXs34QbRLnxneXsN",
+  "createdAt": {
+    "$date": "2020-10-19T12:53:58.115Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-19T12:53:58.115Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8dab899b46b300043f45e7"
+  },
+  "email": "hoc081098@gmail.com",
+  "is_active": true,
+  "original_price": 70000,
+  "phone_number": "0363438135",
+  "products": [],
+  "total_price": 70000,
+  "show_time": {
+    "$oid": "5f760e27b4e1ec097c158205"
+  },
+  "user": {
+    "$oid": "5f6a22e3075f5b523f6085a4"
+  },
+  "payment_intent_id": "pi_1HdzwjH1kXs34QbRACIpK6nH",
+  "createdAt": {
+    "$date": "2020-10-19T15:06:49.819Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-19T15:06:49.819Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8fd16337274100043b662a"
+  },
+  "email": "hoc081098@gmail.com",
+  "is_active": true,
+  "original_price": 469000,
+  "phone_number": "0363438135",
+  "products": [
+    {
+      "_id": {
+        "$oid": "5f8fd16337274100043b662b"
+      },
+      "id": {
+        "$oid": "5f72355fc721d31f4c2fd7bd"
+      },
+      "quantity": 1
+    },
+    {
+      "_id": {
+        "$oid": "5f8fd16337274100043b662c"
+      },
+      "id": {
+        "$oid": "5f72355fc721d31f4c2fd7be"
+      },
+      "quantity": 1
+    }
+  ],
+  "total_price": 469000,
+  "show_time": {
+    "$oid": "5f760e28b4e1ec097c158208"
+  },
+  "user": {
+    "$oid": "5f6a22e3075f5b523f6085a4"
+  },
+  "payment_intent_id": "pi_1HeaZ4H1kXs34QbRINJHayWE",
+  "createdAt": {
+    "$date": "2020-10-21T06:12:51.647Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-21T06:12:51.647Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8fde5574071a00045dd42f"
+  },
+  "email": "test@gmail.com",
+  "is_active": true,
+  "original_price": 142000,
+  "phone_number": "0363438135",
+  "products": [
+    {
+      "_id": {
+        "$oid": "5f8fde5574071a00045dd430"
+      },
+      "id": {
+        "$oid": "5f72355fc721d31f4c2fd7bb"
+      },
+      "quantity": 1
+    }
+  ],
+  "total_price": 142000,
+  "show_time": {
+    "$oid": "5f760e2bb4e1ec097c15822f"
+  },
+  "user": {
+    "$oid": "5f6a22e3075f5b523f6085a4"
+  },
+  "payment_intent_id": "pi_1HebQWH1kXs34QbRG66miLW8",
+  "createdAt": {
+    "$date": "2020-10-21T07:08:05.758Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-21T07:08:05.758Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8fe08c74071a00045dd438"
+  },
+  "email": "t@gmail.com",
+  "is_active": true,
+  "original_price": 160000,
+  "phone_number": "0363138135",
+  "products": [],
+  "total_price": 160000,
+  "show_time": {
+    "$oid": "5f760e40b4e1ec097c1582e8"
+  },
+  "user": {
+    "$oid": "5f6a22e3075f5b523f6085a4"
+  },
+  "payment_intent_id": "pi_1HebZfH1kXs34QbRVRotrttx",
+  "createdAt": {
+    "$date": "2020-10-21T07:17:32.934Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-21T07:17:32.934Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f917751f0b5550a7c6078fd"
+  },
+  "email": "hoc081098@gmail.com",
+  "is_active": true,
+  "original_price": 314000,
+  "phone_number": "0363438135",
+  "products": [
+    {
+      "_id": {
+        "$oid": "5f917751f0b5550a7c6078fe"
+      },
+      "id": {
+        "$oid": "5f72355fc721d31f4c2fd7bf"
+      },
+      "quantity": 1
+    }
+  ],
+  "total_price": 314000,
+  "show_time": {
+    "$oid": "5f760e28b4e1ec097c15820b"
+  },
+  "user": {
+    "$oid": "5f6a22e3075f5b523f6085a4"
+  },
+  "payment_intent_id": "pi_1Hf2fFH1kXs34QbR1Xzt71nX",
+  "createdAt": {
+    "$date": "2020-10-22T12:13:05.333Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-22T12:13:05.333Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f917825a25d29341ce8bec6"
+  },
+  "email": "hoc081098@gmail.com",
+  "is_active": true,
+  "original_price": 80000,
+  "phone_number": "0363438135",
+  "products": [],
+  "total_price": 80000,
+  "show_time": {
+    "$oid": "5f760e28b4e1ec097c15820b"
+  },
+  "user": {
+    "$oid": "5f6a22e3075f5b523f6085a4"
+  },
+  "payment_intent_id": "pi_1Hf2ifH1kXs34QbRI0Cnt4h3",
+  "createdAt": {
+    "$date": "2020-10-22T12:16:37.823Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-22T12:16:37.823Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9178c22495891d2cacc434"
+  },
+  "email": "hoc081098@gmail.com",
+  "is_active": true,
+  "original_price": 80000,
+  "phone_number": "0363438135",
+  "products": [],
+  "total_price": 80000,
+  "show_time": {
+    "$oid": "5f760e2fb4e1ec097c158259"
+  },
+  "user": {
+    "$oid": "5f6a22e3075f5b523f6085a4"
+  },
+  "payment_intent_id": "pi_1Hf2lCH1kXs34QbR9Qsx9JM7",
+  "createdAt": {
+    "$date": "2020-10-22T12:19:14.310Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-22T12:19:14.310Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9179d8bdf18511e8a1dfcb"
+  },
+  "email": "hoc081098@gmail.com",
+  "is_active": true,
+  "original_price": 80000,
+  "phone_number": "0363438135",
+  "products": [],
+  "total_price": 80000,
+  "show_time": {
+    "$oid": "5f760e2fb4e1ec097c158259"
+  },
+  "user": {
+    "$oid": "5f6a22e3075f5b523f6085a4"
+  },
+  "payment_intent_id": "pi_1Hf2pgH1kXs34QbROHuJayko",
+  "createdAt": {
+    "$date": "2020-10-22T12:23:52.732Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-22T12:23:52.732Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f917d99e8ee7b31d4ab1feb"
+  },
+  "email": "hoc081098@gmail.com",
+  "is_active": true,
+  "original_price": 80000,
+  "phone_number": "0363438135",
+  "products": [],
+  "total_price": 80000,
+  "show_time": {
+    "$oid": "5f760e4ab4e1ec097c158306"
+  },
+  "user": {
+    "$oid": "5f6a22e3075f5b523f6085a4"
+  },
+  "payment_intent_id": "pi_1Hf35BH1kXs34QbR7HJMOG3y",
+  "createdAt": {
+    "$date": "2020-10-22T12:39:53.649Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-22T12:39:53.649Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f917f21e8ee7b31d4ab1ff1"
+  },
+  "email": "hoc081098@gmail.com",
+  "is_active": true,
+  "original_price": 100000,
+  "phone_number": "0363438135",
+  "products": [],
+  "total_price": 100000,
+  "show_time": {
+    "$oid": "5f760e4ab4e1ec097c158307"
+  },
+  "user": {
+    "$oid": "5f6a22e3075f5b523f6085a4"
+  },
+  "payment_intent_id": "pi_1Hf3BWH1kXs34QbRkAEgcNuz",
+  "createdAt": {
+    "$date": "2020-10-22T12:46:25.758Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-22T12:46:25.758Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f91818ae8ee7b31d4ab1ff3"
+  },
+  "email": "hoc081098@gmail.com",
+  "is_active": true,
+  "original_price": 60000,
+  "phone_number": "0363438135",
+  "products": [],
+  "total_price": 60000,
+  "show_time": {
+    "$oid": "5f760e12b4e1ec097c158156"
+  },
+  "user": {
+    "$oid": "5f6a22e3075f5b523f6085a4"
+  },
+  "payment_intent_id": "pi_1Hf3LTH1kXs34QbRT5FtqjrO",
+  "createdAt": {
+    "$date": "2020-10-22T12:56:42.532Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-22T12:56:42.532Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f93e437dd82b80004e66788"
+  },
+  "email": "hoc081098@gmail.com",
+  "is_active": true,
+  "original_price": 274000,
+  "phone_number": "0363438135",
+  "products": [
+    {
+      "_id": {
+        "$oid": "5f93e437dd82b80004e66789"
+      },
+      "id": {
+        "$oid": "5f72355fc721d31f4c2fd7bb"
+      },
+      "quantity": 1
+    },
+    {
+      "_id": {
+        "$oid": "5f93e437dd82b80004e6678a"
+      },
+      "id": {
+        "$oid": "5f72355fc721d31f4c2fd7bc"
+      },
+      "quantity": 1
+    }
+  ],
+  "total_price": 274000,
+  "show_time": {
+    "$oid": "5f91d5bdd185d72ae4062d24"
+  },
+  "user": {
+    "$oid": "5f6a22e3075f5b523f6085a4"
+  },
+  "payment_intent_id": "pi_1Hfi0uH1kXs34QbRZ2lQptxH",
+  "createdAt": {
+    "$date": "2020-10-24T08:22:15.733Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-24T08:22:15.733Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f944e815e2f28000477f128"
+  },
+  "email": "t@gmail.com",
+  "is_active": true,
+  "original_price": 60000,
+  "phone_number": "0363438135",
+  "products": [],
+  "total_price": 60000,
+  "show_time": {
+    "$oid": "5f91d547d185d72ae4062ce2"
+  },
+  "user": {
+    "$oid": "5f6a22e3075f5b523f6085a4"
+  },
+  "payment_intent_id": "pi_1Hfp5oH1kXs34QbRdjLNLPj8",
+  "createdAt": {
+    "$date": "2020-10-24T15:55:45.711Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-24T15:55:45.711Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9460319df1cf2ab8078817"
+  },
+  "email": "t@gmail.com",
+  "is_active": true,
+  "original_price": 162000,
+  "phone_number": "0363438135",
+  "products": [
+    {
+      "_id": {
+        "$oid": "5f9460319df1cf2ab8078818"
+      },
+      "id": {
+        "$oid": "5f72355fc721d31f4c2fd7bb"
+      },
+      "quantity": 1
+    }
+  ],
+  "total_price": 103159,
+  "show_time": {
+    "$oid": "5f91d596d185d72ae4062d0f"
+  },
+  "user": {
+    "$oid": "5f6a22e3075f5b523f6085a4"
+  },
+  "payment_intent_id": "pi_1HfqGsH1kXs34QbRC89aRvqw",
+  "createdAt": {
+    "$date": "2020-10-24T17:11:13.607Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-24T17:11:13.607Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9468ad9df1cf2ab807881a"
+  },
+  "email": "t@mail.com",
+  "is_active": true,
+  "original_price": 80000,
+  "phone_number": "0363438135",
+  "products": [],
+  "total_price": 80000,
+  "show_time": {
+    "$oid": "5f91d4dfd185d72ae4062cae"
+  },
+  "user": {
+    "$oid": "5f6a22e3075f5b523f6085a4"
+  },
+  "payment_intent_id": "pi_1HfqptH1kXs34QbRgLm1THSK",
+  "createdAt": {
+    "$date": "2020-10-24T17:47:25.040Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-24T17:47:25.040Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9525004a63cd0004ee3c60"
+  },
+  "email": "hoc081098@gmail.com",
+  "is_active": true,
+  "original_price": 1140000,
+  "phone_number": "0363438135",
+  "products": [],
+  "total_price": 590906,
+  "show_time": {
+    "$oid": "5f91d47ed185d72ae4062c88"
+  },
+  "user": {
+    "$oid": "5f6a22e3075f5b523f6085a4"
+  },
+  "payment_intent_id": "pi_1Hg3NTH1kXs34QbRvvTnmrNt",
+  "createdAt": {
+    "$date": "2020-10-25T07:10:56.338Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-25T07:10:56.338Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f954dc46b5d260004d62d98"
+  },
+  "email": "hoc081098@gmail.com",
+  "is_active": true,
+  "original_price": 60000,
+  "phone_number": "0363438135",
+  "products": [],
+  "total_price": 60000,
+  "show_time": {
+    "$oid": "5f91d30af1220229e89044a3"
+  },
+  "user": {
+    "$oid": "5f6a22e3075f5b523f6085a4"
+  },
+  "payment_intent_id": "pi_1Hg65nH1kXs34QbRrRJajGe7",
+  "createdAt": {
+    "$date": "2020-10-25T10:04:52.210Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-25T10:04:52.210Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fa19fd050f15e24d4b08f36"
+  },
+  "email": "hoc081098@gmail.com",
+  "is_active": true,
+  "original_price": 80000,
+  "phone_number": "0363438135",
+  "products": [],
+  "total_price": 80000,
+  "show_time": {
+    "$oid": "5fa186369a784907a8eb0ae9"
+  },
+  "user": {
+    "$oid": "5f81d8aa143d55317849b693"
+  },
+  "payment_intent_id": "pi_1HjU8yH1kXs34QbRFGoi3i9t",
+  "createdAt": {
+    "$date": "2020-11-03T18:22:08.922Z"
+  },
+  "updatedAt": {
+    "$date": "2020-11-03T18:22:08.922Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fd0c25902f22d0004494b34"
+  },
+  "email": "hoc081098@gmail.com",
+  "is_active": true,
+  "original_price": 666000,
+  "phone_number": "0363438435",
+  "products": [
+    {
+      "_id": {
+        "$oid": "5fd0c25902f22d0004494b35"
+      },
+      "id": {
+        "$oid": "5f72355fc721d31f4c2fd7be"
+      },
+      "quantity": 1
+    },
+    {
+      "_id": {
+        "$oid": "5fd0c25902f22d0004494b36"
+      },
+      "id": {
+        "$oid": "5f72355fc721d31f4c2fd7bf"
+      },
+      "quantity": 1
+    }
+  ],
+  "total_price": 666000,
+  "show_time": {
+    "$oid": "5fcf0fb54e8cf72ba67b5f2a"
+  },
+  "user": {
+    "$oid": "5f6a22e3075f5b523f6085a4"
+  },
+  "payment_intent_id": "pi_1HwRk3H1kXs34QbRFOKS2ItI",
+  "createdAt": {
+    "$date": "2020-12-09T12:26:01.023Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-09T12:26:01.023Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fd225f0629c380004bb9ecc"
+  },
+  "email": "hoc081098@gmail.com",
+  "is_active": true,
+  "original_price": 140000,
+  "phone_number": "0363438135",
+  "products": [],
+  "total_price": 140000,
+  "show_time": {
+    "$oid": "5fcda45a1db43315b2ec86c6"
+  },
+  "user": {
+    "$oid": "5f6a22e3075f5b523f6085a4"
+  },
+  "payment_intent_id": "pi_1HwpQJH1kXs34QbRd04SQUnY",
+  "createdAt": {
+    "$date": "2020-12-10T13:43:12.743Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-10T13:43:12.743Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fdb6b4b7781a70004f2ad53"
+  },
+  "email": "hoc081098@gmail.com",
+  "is_active": true,
+  "original_price": 240000,
+  "phone_number": "0363438135",
+  "products": [],
+  "total_price": 240000,
+  "show_time": {
+    "$oid": "5fcf005a4e8cf72ba67af83c"
+  },
+  "user": {
+    "$oid": "5f6a22e3075f5b523f6085a4"
+  },
+  "payment_intent_id": "pi_1HzNTyH1kXs34QbRPswvIfi8",
+  "createdAt": {
+    "$date": "2020-12-17T14:29:31.850Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-17T14:29:31.850Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fdc182e342a0e0004fa3bc6"
+  },
+  "email": "hoc081098@gmail.com",
+  "is_active": true,
+  "original_price": 648000,
+  "phone_number": "0363438135",
+  "products": [
+    {
+      "_id": {
+        "$oid": "5fdc182e342a0e0004fa3bc7"
+      },
+      "id": {
+        "$oid": "5f72355fc721d31f4c2fd7bb"
+      },
+      "quantity": 1
+    },
+    {
+      "_id": {
+        "$oid": "5fdc182e342a0e0004fa3bc8"
+      },
+      "id": {
+        "$oid": "5f72355fc721d31f4c2fd7be"
+      },
+      "quantity": 1
+    },
+    {
+      "_id": {
+        "$oid": "5fdc182e342a0e0004fa3bc9"
+      },
+      "id": {
+        "$oid": "5f72355fc721d31f4c2fd7bf"
+      },
+      "quantity": 1
+    }
+  ],
+  "total_price": 648000,
+  "show_time": {
+    "$oid": "5fcf188a4e8cf72ba67b9f3f"
+  },
+  "user": {
+    "$oid": "5f6a22e3075f5b523f6085a4"
+  },
+  "payment_intent_id": "pi_1HzYzpH1kXs34QbRMuBreBZ7",
+  "createdAt": {
+    "$date": "2020-12-18T02:47:10.219Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T02:47:10.219Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fdc2ff13f80eb0004e65ad4"
+  },
+  "email": "t@gmail.com",
+  "is_active": true,
+  "original_price": 640000,
+  "phone_number": "0363438135",
+  "products": [],
+  "total_price": 640000,
+  "show_time": {
+    "$oid": "5fcf15a44e8cf72ba67b8aa9"
+  },
+  "user": {
+    "$oid": "5f6a22e3075f5b523f6085a4"
+  },
+  "payment_intent_id": "pi_1HzaZwH1kXs34QbRg0FNlREU",
+  "createdAt": {
+    "$date": "2020-12-18T04:28:33.198Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T04:28:33.198Z"
+  },
+  "__v": 0
+}]
