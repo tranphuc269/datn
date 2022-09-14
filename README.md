@@ -6,9 +6,6 @@ A movie tickets booking and management application using `Flutter` and `NestJS`.
 [![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/b231badd3e184bf1b1cac6df7e21a374)](https://app.codacy.com/gh/hoc081098/Movie-Ticket-Booking?utm_source=github.com&utm_medium=referral&utm_content=hoc081098/Movie-Ticket-Booking&utm_campaign=Badge_Grade_Settings)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhoc081098%2FMovie-Ticket-Booking&count_bg=%23A16CF7&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
-
 ## Features
 
 -   Flutter BLoC pattern and [RxDart](https://pub.dev/packages/rxdart), [rx_redux](https://pub.dev/packages/rx_redux), [stream_loader](https://pub.dev/packages/stream_loader) for state management.
@@ -57,7 +54,6 @@ project
     -   [Admin APK](https://github.com/hoc081098/DATN/blob/master/MobileApp/movie_admin/build/app/outputs/flutter-apk/app-release.apk)
     
 -   Setup and run
-    -   Backend (**You can use my url: https://datn-081098.herokuapp.com/**)
         -	Install [Node.js](https://nodejs.org/en/download/), [NestJS](https://docs.nestjs.com/)
         -	Install [MongoDB](https://docs.mongodb.com/manual/installation/), [Neo4j](https://neo4j.com/docs/operations-manual/current/installation/windows/)
         -	Create [Stripe secret API key](https://stripe.com/docs/keys), Create [MovieDb api key](https://www.themoviedb.org/settings/api)
@@ -121,8 +117,9 @@ project
             ```
         -   Create .env file `./MobileApp/datn/.prod.env` and `./MobileApp/movie_admin/.env` has following structure:
             ```bash
-            BASE_URL=datn-081098.herokuapp.com
-            WS_URL=https://datn-081098.herokuapp.com/
+            BASE_URL=
+            WS_URL=
+            
             WS_PATH=/socket
             PLACES_API_KEY=your_places_api_key
             ```
