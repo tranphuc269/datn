@@ -1,35 +1,77 @@
 {
   "project_info": {
-    "project_number": "295693891693",
-    "firebase_url": "https://datn-ca929.firebaseio.com",
-    "project_id": "datn-ca929",
-    "storage_bucket": "datn-ca929.appspot.com"
+    "project_number": "546097464541",
+    "project_id": "datn-7837a",
+    "storage_bucket": "datn-7837a.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:295693891693:android:5fbad88704d93ab44fe764",
+        "mobilesdk_app_id": "1:546097464541:android:af55fc0e73c8f5e5420734",
         "android_client_info": {
-          "package_name": "com.hoc.datn"
+          "package_name": "com.datn.movieAdmin"
         }
       },
       "oauth_client": [
         {
-          "client_id": "295693891693-48rrd7kj8tinqu0oh3u9gr8b0qc8dm9u.apps.googleusercontent.com",
+          "client_id": "546097464541-n9dsthu1q9k1nq9rb77401mkmvcgk2kq.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDepIY8kEWG-qL2PURFCXnU_mc6SuhzD_c"
+          "current_key": "AIzaSyCWb0XdBEV6Rvb9zoKaQl3lekbwS1fBeT4"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "295693891693-48rrd7kj8tinqu0oh3u9gr8b0qc8dm9u.apps.googleusercontent.com",
+              "client_id": "546097464541-n9dsthu1q9k1nq9rb77401mkmvcgk2kq.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "546097464541-djv2rg7uh8bl79k9ujvppj6qoup15d5d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hoc.datn"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546097464541:android:4bb06763751377e0420734",
+        "android_client_info": {
+          "package_name": "com.hoc.datn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "546097464541-n9dsthu1q9k1nq9rb77401mkmvcgk2kq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWb0XdBEV6Rvb9zoKaQl3lekbwS1fBeT4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "546097464541-n9dsthu1q9k1nq9rb77401mkmvcgk2kq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "546097464541-djv2rg7uh8bl79k9ujvppj6qoup15d5d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hoc.datn"
+              }
             }
           ]
         }
