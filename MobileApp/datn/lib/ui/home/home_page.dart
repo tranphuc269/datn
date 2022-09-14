@@ -197,7 +197,7 @@ class _HomePageState extends State<HomePage> with DisposeBagMixin {
 
     return Scaffold(
       appBar: AppBar(
-        title: Text('Enjoy movies'),
+        title: Text('Danh sách phim'),
         actions: [
           const ChangeLanguageButton(iconColor: null),
           IconButton(

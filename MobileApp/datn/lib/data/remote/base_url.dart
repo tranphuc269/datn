@@ -8,7 +8,7 @@ Uri buildUrl(String unencodedPath, [Map<String, String>? queryParameters]) {
       params += '&$_element=${queryParameters![_element]}';
     }
   }
-  final _url = 'https://5f18-42-119-189-44.ap.ngrok.io/$unencodedPath$params'
+  final _url = 'https://463d-183-81-98-53.ap.ngrok.io/$unencodedPath$params'
       .replaceAll('//', '/')
       .replaceAll(':/', '://');
   return Uri.parse(_url);
