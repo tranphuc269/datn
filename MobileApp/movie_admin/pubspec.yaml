@@ -35,7 +35,7 @@ dependencies:
   expandable: ^4.1.4
   built_collection: ^5.0.0
   loading_indicator: ^1.2.0
-  google_sign_in: ^4.5.6
+#  google_sign_in: ^4.5.6
   font_awesome_flutter: ^8.10.0
   image_picker: ^0.8.5
   cached_network_image: ^3.2.0

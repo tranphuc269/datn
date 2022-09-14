@@ -132,11 +132,11 @@ class _MainPageState extends State<MainPage> with DisposeBagMixin {
       items: [
         BottomNavigationBarItem(
           icon: Icon(Icons.home),
-          label: 'Home',
+          label: 'Trang chủ',
         ),
         BottomNavigationBarItem(
           icon: Icon(Icons.person),
-          label: 'Profile',
+          label: 'Cá nhân',
         ),
       ],
     );

@@ -188,8 +188,8 @@ class _MultiPickPersonState extends State<MultiPickPersonWidget> {
       children: [
         SizedBox(width: 50),
         Expanded(
-          child: RaisedButton(
-            padding: EdgeInsets.all(10),
+          child: ElevatedButton(
+            // padding: EdgeInsets.all(10),
             child: Text(
               'Pick person choice',
               style: TextStyle(fontSize: 18),
@@ -198,15 +198,15 @@ class _MultiPickPersonState extends State<MultiPickPersonWidget> {
               widget.onPickPerson(listPersonChoices.toList());
               listPersonChoices.clear();
             },
-            shape: RoundedRectangleBorder(
-              borderRadius: BorderRadius.all(Radius.circular(20)),
-              side: BorderSide(
-                color: Colors.blueAccent,
-                style: BorderStyle.solid,
-                width: 2,
-              ),
-            ),
-            color: Colors.white,
+            // shape: RoundedRectangleBorder(
+            //   borderRadius: BorderRadius.all(Radius.circular(20)),
+            //   side: BorderSide(
+            //     color: Colors.blueAccent,
+            //     style: BorderStyle.solid,
+            //     width: 2,
+            //   ),
+            // ),
+            // color: Colors.white,
           ),
         ),
         SizedBox(width: 50),

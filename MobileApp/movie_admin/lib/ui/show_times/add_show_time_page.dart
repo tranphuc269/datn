@@ -234,11 +234,11 @@ class _AppShowTimePageState extends State<AppShowTimePage>
     return SliverToBoxAdapter(
       child: Padding(
         padding: const EdgeInsets.symmetric(horizontal: 64),
-        child: RaisedButton(
-          color: Colors.white,
-          shape: RoundedRectangleBorder(
-              borderRadius: BorderRadius.circular(20),
-              side: BorderSide(color: Colors.deepPurpleAccent)),
+        child: ElevatedButton(
+          // color: Colors.white,
+          // shape: RoundedRectangleBorder(
+          //     borderRadius: BorderRadius.circular(20),
+          //     side: BorderSide(color: Colors.deepPurpleAccent)),
           onPressed: () {
             final startTime = this.startTime;
             print(startTime);
@@ -371,11 +371,11 @@ class _AppShowTimePageState extends State<AppShowTimePage>
           return SliverToBoxAdapter(
             child: Padding(
               padding: const EdgeInsets.symmetric(horizontal: 64),
-              child: RaisedButton(
-                color: Colors.white,
-                shape: RoundedRectangleBorder(
-                    borderRadius: BorderRadius.circular(20),
-                    side: BorderSide(color: Colors.deepPurpleAccent)),
+              child: ElevatedButton(
+                // color: Colors.white,
+                // shape: RoundedRectangleBorder(
+                //     borderRadius: BorderRadius.circular(20),
+                //     side: BorderSide(color: Colors.deepPurpleAccent)),
                 onPressed: () async {
                   final price = await pickPrice(data.first.item2);
                   if (price == null) {

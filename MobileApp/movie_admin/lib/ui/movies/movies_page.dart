@@ -40,7 +40,7 @@ class _MoviePageState extends State<MoviePage> {
     return Scaffold(
       backgroundColor: Colors.white,
       appBar: AppBar(
-        title: Text('Movies'),
+        title: Text('Danh sách phim'),
       ),
       body: Column(
         crossAxisAlignment: CrossAxisAlignment.start,

@@ -56,7 +56,7 @@ class _HomePageState extends State<HomePage> {
         if (role == Role.ADMIN) {
           return Scaffold(
             appBar: AppBar(
-              title: Text('Home'),
+              title: Text('Trang chủ'),
             ),
             body: GridView.count(
               primary: false,
@@ -66,31 +66,31 @@ class _HomePageState extends State<HomePage> {
               children: <Widget>[
                 card(
                   Icons.supervised_user_circle_rounded,
-                  'Manager users',
-                  '${Random().nextInt(10) + 1} notifications',
+                  'Quản lý người dùng',
+                  '${Random().nextInt(10) + 1} thông báo',
                   Colors.red,
                   () => Navigator.of(context)
                       .pushNamed(ManagerUsersPage.routeName),
                 ),
                 card(
                   Icons.movie_filter_outlined,
-                  "Manager movie",
-                  "${Random().nextInt(10) + 1} notifications",
+                  "Quản lý phim",
+                  "${Random().nextInt(10) + 1} thông báo",
                   Colors.red,
                   () => Navigator.of(context).pushNamed(MoviePage.routeName),
                 ),
                 card(
                   Icons.add_box_rounded,
-                  "Upload movie",
-                  "${Random().nextInt(10) + 1} notifications",
+                  "Upload phim",
+                  "${Random().nextInt(10) + 1} thông báo",
                   Colors.red,
                   () => Navigator.of(context)
                       .pushNamed(UploadMoviePage.routeName),
                 ),
                 card(
                   Icons.theaters,
-                  "Manager theatre",
-                  "${Random().nextInt(10) + 1} notifications",
+                  "Quản lý rạp",
+                  "${Random().nextInt(10) + 1} thông báo",
                   Colors.red,
                   () => Navigator.of(context).pushNamed(
                     TheatresPage.routeName,
@@ -99,8 +99,8 @@ class _HomePageState extends State<HomePage> {
                 ),
                 card(
                   Icons.movie_creation,
-                  "Manager show time",
-                  "${Random().nextInt(10) + 1} notifications",
+                  "Quản lý thời gian phim",
+                  "${Random().nextInt(10) + 1} thông báo",
                   Colors.red,
                   () => Navigator.of(context).pushNamed(
                     TheatresPage.routeName,
@@ -109,8 +109,8 @@ class _HomePageState extends State<HomePage> {
                 ),
                 card(
                   Icons.movie_creation,
-                  "Report",
-                  "${Random().nextInt(10) + 1} notifications",
+                  "Báo cáo",
+                  "${Random().nextInt(10) + 1} thông báo",
                   Colors.red,
                   () => Navigator.of(context).pushNamed(
                     TheatresPage.routeName,
@@ -120,7 +120,7 @@ class _HomePageState extends State<HomePage> {
                 card(
                   Icons.movie_creation,
                   "Scan QR code",
-                  "${Random().nextInt(10) + 1} notifications",
+                  "${Random().nextInt(10) + 1} thông báo",
                   Colors.red,
                   () => Navigator.of(context).pushNamed(
                     QRCodePage.routeName,

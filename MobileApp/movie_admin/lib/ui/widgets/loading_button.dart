@@ -228,12 +228,12 @@ class _ProgressButtonState extends State<ProgressButton>
             width: width,
             height: widget.height,
             duration: animationDuration,
-            child: RaisedButton(
-              padding: widget.padding,
-              shape: RoundedRectangleBorder(
-                  borderRadius: BorderRadius.circular(widget.radius),
-                  side: BorderSide(color: Colors.transparent, width: 0)),
-              color: backgroundColor,
+            child: ElevatedButton(
+              // padding: widget.padding,
+              // shape: RoundedRectangleBorder(
+              //     borderRadius: BorderRadius.circular(widget.radius),
+              //     side: BorderSide(color: Colors.transparent, width: 0)),
+              // color: backgroundColor,
               onPressed: widget.onPressed,
               child: getButtonChild(
                   colorAnimation == null ? true : colorAnimation.isCompleted),

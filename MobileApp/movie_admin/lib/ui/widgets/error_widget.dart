@@ -26,21 +26,21 @@ class MyErrorWidget extends StatelessWidget {
         const SizedBox(height: 12),
         Container(
           margin: const EdgeInsets.symmetric(horizontal: 4),
-          child: RaisedButton(
+          child: ElevatedButton(
             child: Text('Retry'),
-            padding: const EdgeInsets.symmetric(
-              vertical: 16,
-              horizontal: 32,
-            ),
+            // padding: const EdgeInsets.symmetric(
+            //   vertical: 16,
+            //   horizontal: 32,
+            // ),
             onPressed: onPressed,
-            color: Theme.of(context).canvasColor,
-            shape: RoundedRectangleBorder(
-              borderRadius: BorderRadius.circular(24),
-              side: BorderSide(
-                color: Theme.of(context).primaryColor,
-                width: 1,
-              ),
-            ),
+            // color: Theme.of(context).canvasColor,
+            // shape: RoundedRectangleBorder(
+            //   borderRadius: BorderRadius.circular(24),
+            //   side: BorderSide(
+            //     color: Theme.of(context).primaryColor,
+            //     width: 1,
+            //   ),
+            // ),
           ),
         ),
       ],

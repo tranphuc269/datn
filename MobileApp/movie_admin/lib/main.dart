@@ -6,7 +6,7 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_provider/flutter_provider.dart';
-import 'package:google_sign_in/google_sign_in.dart';
+// import 'package:google_sign_in/google_sign_in.dart';
 import 'package:http/http.dart' as http;
 import 'package:rx_shared_preferences/rx_shared_preferences.dart';
 
@@ -41,14 +41,14 @@ void main() async {
   // Env
   //
   await EnvManager.shared.config();
+  await Firebase.initializeApp();
 
   //
   // Firebase, Google, Facebook
   //
-  await Firebase.initializeApp();
   final auth = FirebaseAuth.instance;
   final storage = FirebaseStorage.instance;
-  final googleSignIn = GoogleSignIn();
+  // final googleSignIn = GoogleSignIn();
 
   //
   // Local and remote
@@ -82,7 +82,6 @@ void main() async {
     mappers.userResponseToUserLocal,
     storage,
     mappers.userLocalToUserDomain,
-    googleSignIn,
   );
   final managerUsersRepository = ManagerRepositoryImpl(authClient);
   final movieRepository = MovieRepositoryImpl(authClient);

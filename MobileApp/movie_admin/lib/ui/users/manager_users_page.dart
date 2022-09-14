@@ -81,7 +81,7 @@ class _ManagerUsersPageState extends State<ManagerUsersPage>
       key: scaffoldKey,
       backgroundColor: Colors.white,
       appBar: AppBar(
-        title: Text('Users'),
+        title: Text('Người dùng'),
       ),
       body: Row(
         mainAxisAlignment: MainAxisAlignment.center,

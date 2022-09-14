@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>546097464541-djv2rg7uh8bl79k9ujvppj6qoup15d5d.apps.googleusercontent.com</string>
+	<string>546097464541-p9te5vugmcn19ass3hiujpfdaok5qul7.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.546097464541-djv2rg7uh8bl79k9ujvppj6qoup15d5d</string>
+	<string>com.googleusercontent.apps.546097464541-p9te5vugmcn19ass3hiujpfdaok5qul7</string>
 	<key>API_KEY</key>
 	<string>AIzaSyB2FnRBfCvzzJZoStf7pvULjNTpjA4WivA</string>
 	<key>GCM_SENDER_ID</key>
@@ -13,7 +13,7 @@
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.hoc.datn</string>
+	<string>com.datn.movieAdmin</string>
 	<key>PROJECT_ID</key>
 	<string>datn-7837a</string>
 	<key>STORAGE_BUCKET</key>
@@ -29,6 +29,6 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:546097464541:ios:532ed98248b32f0f420734</string>
+	<string>1:546097464541:ios:517d9260e2aac69e420734</string>
 </dict>
 </plist>

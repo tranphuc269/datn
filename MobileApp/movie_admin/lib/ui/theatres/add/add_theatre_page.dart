@@ -68,8 +68,8 @@ class _AddTheatrePageState extends State<AddTheatrePage> {
                 const SizedBox(height: 12),
                 buildCover(),
                 const SizedBox(height: 12),
-                RaisedButton(
-                  color: Theme.of(context).primaryColor,
+                ElevatedButton(
+                  // color: Theme.of(context).primaryColor,
                   onPressed: () async {
                     final newSeats = await AppScaffold.of(context).pushNamed(
                       SeatsPage.routeName,
@@ -82,7 +82,7 @@ class _AddTheatrePageState extends State<AddTheatrePage> {
                       seats = newSeats;
                     }
                   },
-                  textTheme: ButtonTextTheme.primary,
+                  // textTheme: ButtonTextTheme.primary,
                   child: Text('Change seats map'),
                 ),
                 const SizedBox(height: 16),
@@ -97,10 +97,10 @@ class _AddTheatrePageState extends State<AddTheatrePage> {
                       );
                     }
 
-                    return RaisedButton(
-                      color: Theme.of(context).primaryColor,
+                    return ElevatedButton(
+                      // color: Theme.of(context).primaryColor,
                       onPressed: () => submit(context),
-                      textTheme: ButtonTextTheme.primary,
+                      // textTheme: ButtonTextTheme.primary,
                       child: Text('Submit'),
                     );
                   },

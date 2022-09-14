@@ -4,7 +4,6 @@ import 'dart:io';
 import 'package:firebase_auth/firebase_auth.dart' hide User;
 import 'package:firebase_storage/firebase_storage.dart';
 import 'package:flutter/services.dart';
-import 'package:google_sign_in/google_sign_in.dart';
 import 'package:pedantic/pedantic.dart';
 import 'package:rxdart/rxdart.dart';
 
@@ -29,7 +28,6 @@ class UserRepositoryImpl implements UserRepository {
   final AuthClient _authClient;
 
   final Function1<UserResponse, UserLocal> _userResponseToUserLocal;
-  final GoogleSignIn _googleSignIn;
 
   final ValueConnectableStream<Optional<User>> _user$;
 
@@ -40,7 +38,6 @@ class UserRepositoryImpl implements UserRepository {
     this._userResponseToUserLocal,
     this._storage,
     Function1<UserLocal, User> userLocalToUserDomain,
-    this._googleSignIn,
   ) : _user$ = valueConnectableStream(
           _auth,
           _userLocalSource,
@@ -152,13 +149,11 @@ class UserRepositoryImpl implements UserRepository {
     // google
     unawaited(() async {
       try {
-        await _googleSignIn.disconnect();
         print('_googleSignIn.disconnect');
       } catch (e) {
         print('_googleSignIn.disconnect error: $e');
       }
     }());
-    await _googleSignIn.signOut();
 
     // firebase
     await _auth.signOut();
@@ -250,23 +245,23 @@ class UserRepositoryImpl implements UserRepository {
 
   @override
   Future<void> googleSignIn() async {
-    final googleAccount = await _googleSignIn.signIn();
-    if (googleAccount == null) {
-      throw PlatformException(
-        code: GoogleSignIn.kSignInCanceledError,
-        message: 'Google sign in canceled',
-        details: null,
-      );
-    }
+    // final googleAccount = await _googleSignIn.signIn();
+    // if (googleAccount == null) {
+    //   throw PlatformException(
+    //     code: GoogleSignIn.kSignInCanceledError,
+    //     message: 'Google sign in canceled',
+    //     details: null,
+    //   );
+    // }
 
-    final authentication = await googleAccount.authentication;
-    await _auth.signInWithCredential(
-      GoogleAuthProvider.credential(
-        idToken: authentication.idToken,
-        accessToken: authentication.accessToken,
-      ),
-    );
-
-    await _checkCompletedLoginAfterFirebaseLogin();
+    // final authentication = await googleAccount.authentication;
+    // await _auth.signInWithCredential(
+    //   GoogleAuthProvider.credential(
+    //     idToken: authentication.idToken,
+    //     accessToken: authentication.accessToken,
+    //   ),
+    // );
+    //
+    // await _checkCompletedLoginAfterFirebaseLogin();
   }
 }

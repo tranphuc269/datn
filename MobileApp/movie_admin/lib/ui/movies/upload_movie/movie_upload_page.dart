@@ -61,7 +61,7 @@ class _UploadMoviePageState extends State<UploadMoviePage>
       key: key,
       backgroundColor: Colors.white,
       appBar: AppBar(
-        title: Text('Upload Movie'),
+        title: Text('Upload phim'),
         leading: IconButton(
           icon: Icon(Icons.arrow_back),
           onPressed: () {
@@ -178,12 +178,12 @@ class _UploadMoviePageState extends State<UploadMoviePage>
         ),
         Expanded(
           child: typeUrl == UrlType.FILE
-              ? RaisedButton(
-                  color: Colors.white,
-                  shape: RoundedRectangleBorder(
-                      borderRadius: BorderRadius.circular(20),
-                      side: BorderSide(color: Colors.deepPurpleAccent)),
-                  elevation: 3,
+              ? ElevatedButton(
+                  // color: Colors.white,
+                  // shape: RoundedRectangleBorder(
+                  //     borderRadius: BorderRadius.circular(20),
+                  //     side: BorderSide(color: Colors.deepPurpleAccent)),
+                  // elevation: 3,
                   onPressed: () async {
                     final imagePicker = ImagePicker();
                     if (isPoster) {
@@ -349,11 +349,11 @@ class _UploadMoviePageState extends State<UploadMoviePage>
             ),
           ),
         ),
-        RaisedButton(
-          color: Colors.white,
-          shape: RoundedRectangleBorder(
-              borderRadius: BorderRadius.circular(20),
-              side: BorderSide(color: Colors.deepPurpleAccent)),
+        ElevatedButton(
+          // color: Colors.white,
+          // shape: RoundedRectangleBorder(
+          //     borderRadius: BorderRadius.circular(20),
+          //     side: BorderSide(color: Colors.deepPurpleAccent)),
           onPressed: () {
             setState(() {
               showSearch = type;
@@ -495,11 +495,11 @@ class _UploadMoviePageState extends State<UploadMoviePage>
             ),
           ),
         ),
-        RaisedButton(
-          color: Colors.white,
-          shape: RoundedRectangleBorder(
-              borderRadius: BorderRadius.circular(20),
-              side: BorderSide(color: Colors.deepPurpleAccent)),
+        ElevatedButton(
+          // color: Colors.white,
+          // shape: RoundedRectangleBorder(
+          //     borderRadius: BorderRadius.circular(20),
+          //     side: BorderSide(color: Colors.deepPurpleAccent)),
           onPressed: () {
             showDialog(
                 context: context,
@@ -706,23 +706,23 @@ class _PickCategoryState extends State<_PickCategoryWidget> {
       children: [
         SizedBox(width: 50),
         Expanded(
-          child: RaisedButton(
-            padding: EdgeInsets.all(10),
+          child: ElevatedButton(
+            // padding: EdgeInsets.all(10),
             child: Text(
               'Pick category',
               style: TextStyle(fontSize: 14),
             ),
             onPressed: () =>
                 widget.onSelectedCategory(listCategoryChoices.toList()),
-            shape: RoundedRectangleBorder(
-              borderRadius: BorderRadius.all(Radius.circular(20)),
-              side: BorderSide(
-                color: Colors.blueAccent,
-                style: BorderStyle.solid,
-                width: 2,
-              ),
-            ),
-            color: Colors.white,
+            // shape: RoundedRectangleBorder(
+            //   borderRadius: BorderRadius.all(Radius.circular(20)),
+            //   side: BorderSide(
+            //     color: Colors.blueAccent,
+            //     style: BorderStyle.solid,
+            //     width: 2,
+            //   ),
+            // ),
+            // color: Colors.white,
           ),
         ),
         SizedBox(width: 50),

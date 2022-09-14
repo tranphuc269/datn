@@ -174,13 +174,13 @@ class _LoginPageState extends State<LoginPage>
                       children: [
                         Expanded(
                           child: Center(
-                            child: RaisedButton(
-                              color: Color(0xFFde5246),
-                              shape: RoundedRectangleBorder(
-                                borderRadius: BorderRadius.circular(8),
-                              ),
-                              padding: const EdgeInsets.all(8),
-                              elevation: 4,
+                            child: ElevatedButton(
+                              // color: Color(0xFFde5246),
+                              // shape: RoundedRectangleBorder(
+                              //   borderRadius: BorderRadius.circular(8),
+                              // ),
+                              // padding: const EdgeInsets.all(8),
+                              // elevation: 4,
                               onPressed: googleSignInBloc.submitLogin,
                               child: RxStreamBuilder<bool>(
                                 stream: googleSignInBloc.isLoading$,
